@@ -25,12 +25,12 @@ This repository contains the current enzyme-constrained metabolic model of *Baci
 - Gurobi Optimizer for MATLAB.
 
 **Complementary Scripts**
-- `<analysis.m>`: The model is analysed by pFBA, FVA and MOMA.
+- `<analysis.m>`: Example in which the model is analysed by pFBA, FVA and MOMA.
 
-**Complementary Scripts**
-- `<EnzymaticData.xlsx>`: The abbreviation name, locus name, protein, kcat [h<sup>-1</sup>] value, 95% confidence interval of protein abundance value [mmol/g<sub>dw</sub>] and molecular weights (kDa) are reported for each enzyme-constrained reaction.
+**Complementary Data**
+- `<EnzymaticData.xlsx>`: The abbreviation name, locus name, protein, kcat [h<sup>-1</sup>] value, 95% confidence interval of protein abundance value [mmol/g<sub>dw</sub>] and molecular weights [kDa] are reported for each enzyme-constrained reaction.
 
 **Contributors**
-- Ilaria Massaiu, [@IMassaiu](https://github.com/IMassaiu), BMS Lab, University of Pavia, via Ferrata 5 (Italy), Center for Biosustainability, Technical University of Denmark, Kgs. Lyngby (Denmark).
+- Ilaria Massaiu, [@IMassaiu](https://github.com/IMassaiu), BMS Lab, University of Pavia, via Ferrata 5 (Italy).
 - Markus J. Herrgård, The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Kgs. Lyngby (Denmark).
 - Nikolaus Sonnenschein, [@phantomas1234](https://github.com/phantomas1234), The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Kgs. Lyngby, Denmark.
