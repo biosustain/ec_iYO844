@@ -28,7 +28,7 @@ This repository contains the current enzyme-constrained metabolic model of *Baci
 - `<analysis.m>`: Example in which the model is analysed by pFBA, FVA and MOMA.
 
 **Complementary Data**
-- `<EnzymaticData.xlsx>`: The abbreviation name, locus name, protein, kcat [h<sup>-1</sup>] value, 95% confidence interval of protein abundance value [mmol/g<sub>dw</sub>] and molecular weights [kDa] are reported for each enzyme-constrained reaction.
+- `<EnzymaticData.xls>`: The abbreviation name, locus name, protein, kcat [h<sup>-1</sup>] value, 95% confidence interval of protein abundance value [mmol/g<sub>dw</sub>] and molecular weights [kDa] are reported for each enzyme-constrained reaction.
 
 **Contributors**
 - Ilaria Massaiu, [@IMassaiu](https://github.com/IMassaiu), BMS Lab, University of Pavia, via Ferrata 5 (Italy).
