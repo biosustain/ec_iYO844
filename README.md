@@ -29,6 +29,7 @@ This repository contains the current enzyme-constrained metabolic model of *Baci
 
 **Complementary Data**
 - `<EnzymaticData.xls>`: The abbreviation name, locus name, protein, kcat [h<sup>-1</sup>] value, 95% confidence interval of protein abundance value [mmol/g<sub>dw</sub>] and molecular weights [kDa] are reported for each enzyme-constrained reaction.
+- `<Dataset.xls>`: The experimental [Chubukov et al. 2013, Fischer and Sauer 2005 and Kobayashi K et al. 2003] and predicted (with iYO844 and ec_iYO844) data of *B. subtilis* wild-type and single-gene deletion strains are reported.
 
 **Contributors**
 - Ilaria Massaiu, [@IMassaiu](https://github.com/IMassaiu), BMS Lab, University of Pavia, via Ferrata 5 (Italy).
